@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Fabricio Miranda
+# 🧑🏻‍💻 Fabricio
 
 **`Analista de Dados Jr`**
 
