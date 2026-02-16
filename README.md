@@ -81,13 +81,5 @@ Me chamo Fabrício Miranda, sou formado em Física pela UFLA e atualmente sou me
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/FarandaMauricio-make/Icons/refs/heads/main/powerbi.svg"
 />
-  <img
-  align="left"
-  alt="Excel"
-  title="Excel"
-  width="40px"
-  style="padding-right: 10px;"
-  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftexcel.svg"
-/>
 <br/>
 <br/>
