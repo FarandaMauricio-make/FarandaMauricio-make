@@ -73,5 +73,13 @@ Me chamo Fabrício Miranda, sou formado em Física pela UFLA e atualmente sou me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" 
 />
+  <img
+    align="left"
+    alt="Power BI"
+    title="Power BI"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/FarandaMauricio-make/Icons/refs/heads/main/powerbi.svg"
+/>
 <br/>
 <br/>
