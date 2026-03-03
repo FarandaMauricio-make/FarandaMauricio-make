@@ -95,7 +95,7 @@ Me chamo Fabrício Miranda, sou formado em Física pela UFLA e atualmente sou me
     title="PostgreSQL"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"      
+/>         
 <br/>
 <br/>
