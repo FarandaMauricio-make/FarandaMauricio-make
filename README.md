@@ -57,6 +57,14 @@ Me chamo Fabrício Miranda, sou formado em Física pela UFLA e atualmente sou me
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
 />
+  <img
+    align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"    
+/>
 <img
     align="left" 
     alt="Pandas"
@@ -87,15 +95,7 @@ Me chamo Fabrício Miranda, sou formado em Física pela UFLA e atualmente sou me
     title="Excel"
     width="30px"
     style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/FarandaMauricio-make/Icons/refs/heads/main/excel.svg"
-/>
-   <img
-    align="left"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"      
+    src="https://raw.githubusercontent.com/FarandaMauricio-make/Icons/refs/heads/main/excel.svg"  
 />         
 <br/>
 <br/>
