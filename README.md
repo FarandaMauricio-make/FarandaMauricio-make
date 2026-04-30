@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Sou Fabrício Miranda, Analista de Dados com base em Física (UFLA) e mestrando em Ciências e Educação Matemática. Minha formação me deu raciocínio analítico sólido — e nos últimos anos direcionei isso para dados: Python, SQL, ETL, modelagem relacional e Power BI. Aqui você encontra projetos reais: pipelines de dados, análise exploratória, modelagem estatística e dashboards estratégicos. Cada repositório tem imagens e links para os resultados finais. Se você busca alguém que entende de dados e sabe comunicar insights — vamos conversar.
+Sou Fabrício Miranda, Analista de Dados com base em Física (UFLA) e mestrando em Ciências e Educação Matemática. Minha formação me deu raciocínio analítico sólido, e nos últimos anos direcionei isso para dados: Python, SQL, ETL, modelagem relacional e Power BI. Aqui você encontra projetos reais: pipelines de dados, análise exploratória, modelagem estatística e dashboards estratégicos. Cada repositório tem imagens e links para os resultados finais. Se você busca alguém que entende de dados e sabe comunicar insights. Vamos conversar.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fabricio-miranda95/" target="_blank">
