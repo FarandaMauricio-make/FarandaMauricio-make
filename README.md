@@ -99,3 +99,13 @@ Sou Fabrício Miranda, Analista de Dados com base em Física (UFLA) e mestrando 
 />         
 <br/>
 <br/>
+
+## 6. Diagrama de Fluxo
+
+```mermaid
+graph LR
+  A[Frontend Vite] -- "Chamada API (Chave Anon)" --> B(Supabase API)
+  B -- "Valida RLS" --> C[(PostgreSQL)]
+  C -- "Retorna Dados da Clínica" --> B
+  B -- "Resposta JSON" --> A
+```
