@@ -8,14 +8,11 @@ Minha trajetória desenvolveu um forte raciocínio analítico, que hoje aplico e
 
 📌 Aqui você encontrará projetos envolvendo:
 
-```txt
-• Análise exploratória de dados (EDA)
-• Pipelines e transformação de dados
-• Dashboards e visualização de dados
-• APIs e automações
-• Soluções com IA utilizando LangChain
-```
-
+* 📊 Análise exploratória de dados (EDA)
+* ⚙️ Pipelines e transformação de dados
+* 📈 Dashboards e visualização de dados
+* 🔌 APIs e automações
+* 🤖 Soluções com IA utilizando LangChain
 
 Cada repositório possui documentação, imagens e links para os resultados finais.
 
