@@ -6,12 +6,16 @@ Sou Fabrício Miranda, Data Analyst & Jr Developer com formação em Física pel
 
 Minha trajetória desenvolveu um forte raciocínio analítico, que hoje aplico em projetos de dados, desenvolvimento web e soluções com IA. Trabalho com Python, SQL, ETL, modelagem de dados, Power BI, React, TypeScript e integrações via APIs.
 
-Aqui você encontrará projetos envolvendo:
+📌 Aqui você encontrará projetos envolvendo:
+
+```txt
 • Análise exploratória de dados (EDA)
 • Pipelines e transformação de dados
 • Dashboards e visualização de dados
 • APIs e automações
 • Soluções com IA utilizando LangChain
+```
+
 
 Cada repositório possui documentação, imagens e links para os resultados finais.
 
