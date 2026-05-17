@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Fabricio
 
-**`Analista de Dados`**
+**`Data Analyst & Jr Developer`**
 
 Sou Fabrício Miranda, Data Analyst & Jr Developer com formação em Física pela UFLA e mestrando em Ensino de Ciências e Educação Matemática.
 
