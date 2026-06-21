@@ -109,6 +109,14 @@ Cada repositório possui documentação, imagens e links para os resultados fina
     width="30px"
     style="padding-right: 10px;"
     src="https://raw.githubusercontent.com/FarandaMauricio-make/Icons/refs/heads/main/excel.svg"  
-/>         
+/>      
+   <img
+    align="left"
+    alt="Typescript"
+    title="Typescript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />"  
+/>
 <br/>
 <br/>
