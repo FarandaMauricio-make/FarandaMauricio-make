@@ -118,5 +118,13 @@ Cada repositório possui documentação, imagens e links para os resultados fina
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  
 />
+ <img
+    align="left"
+    alt="Nestjs"
+    title="Nestjs"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg"
+/> 
 <br/>
 <br/>
