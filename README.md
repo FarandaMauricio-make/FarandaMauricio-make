@@ -1,31 +1,29 @@
-# 🧑🏻‍💻 Fabricio
+# 🧑🏻‍💻 Fabrício Miranda
 
-**`Data Analyst & Jr Developer`**
+**`Desenvolvedor Júnior · Suporte N2 · Dados e IA`**
 
-Sou Fabrício Miranda, Data Analyst & Jr Developer com formação em Física pela UFLA e mestrando em Ensino de Ciências e Educação Matemática.
+Sou desenvolvedor júnior na **Skedia**, um SaaS de gestão para clínicas. Trabalho na sustentação e evolução da plataforma: investigo incidentes em produção, faço correções e melhorias, cuido de integrações (APIs REST e WhatsApp Cloud API) e de agentes de IA para atendimento.
 
-Minha trajetória desenvolveu um forte raciocínio analítico, que hoje aplico em projetos de dados, desenvolvimento web e soluções com IA. Trabalho com Python, SQL, ETL, modelagem de dados, Power BI, React, TypeScript e integrações via APIs.
+Venho da Física (UFLA) e da sala de aula, e estou cursando pós-graduação em Engenharia de Software Ágil. No dia a dia uso TypeScript, NestJS, Python, SQL/PostgreSQL, APIs REST, LangChain e Power BI.
 
-📌 Aqui você encontrará projetos envolvendo:
+📌 Aqui você encontra projetos envolvendo:
 
-* 📊 Análise exploratória de dados (EDA)
-* ⚙️ Pipelines e transformação de dados
+* 🤖 IA generativa e RAG com LangChain
+* ⚙️ Pipelines ETL e modelagem de dados
 * 📈 Dashboards e visualização de dados
 * 🔌 APIs e automações
-* 🤖 Soluções com IA utilizando LangChain
+* 📊 Análise exploratória de dados (EDA)
 
-Cada repositório possui documentação, imagens e links para os resultados finais.
+Cada repositório tem documentação, imagens e instruções para rodar o projeto.
 
-📊 Dados, IA e tecnologia para transformar informação em soluções.
 <p align="left">
-  <a href="https://www.linkedin.com/in/fabricio-miranda95/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabricio-miranda-dados/" target="_blank">
     <img 
       alt="LinkedIn"
       title="Conecte-se comigo no LinkedIn"
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
     />
   </a>
-    </a> 
     <a href="https://github.com/farandamauricio-make?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
